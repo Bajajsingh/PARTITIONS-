@@ -1,6 +1,8 @@
 # Create a HOWTO document to explain how to add 2 additional drive to a virtual machine.
 
-Step one: make your virtural machine must be turn off
+Im am using linux 
+first step: open vitural box
+.make your virtural machine must be turn off
 
 . open setting and click on storege
 
