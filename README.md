@@ -1,7 +1,9 @@
 # Create a HOWTO document to explain how to add 2 additional drive to a virtual machine.
 
 Im am using linux 
+
 first step: open vitural box
+
 .make your virtural machine must be turn off
 
 . open setting and click on storege
@@ -23,6 +25,7 @@ first step: open vitural box
 # In windows partition a disk drive into 3 partition
 
 .Ensure the disk you want to partition is unallocated (empty). If the disk has data, back it up as partitioning will erase all data on the drive
+
 .Open Disk Management locate the unallocated drive (it will show as Unallocated)
 
 .Right-click the unallocated space and select New Simple Volume
